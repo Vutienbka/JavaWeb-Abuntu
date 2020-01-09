@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bce5f504-ae56-4fbd-a77b-51e9ab5b032a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/CleanCode/TennisGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaweb/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaweb/Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javaweb-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Javaweb-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Javaweb-master/CodeGym_Lesson/CountDayInMonth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Javaweb-master/CodeGym_Lesson/DeclareAndUseVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Javaweb-master/CodeGym_Lesson/LinearEquationResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Javaweb-master/CodeGym_Lesson/RectangleProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Javaweb-master/CodeGym_Lesson/SystemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Javaweb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Javaweb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Javaweb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Javaweb/quickSortAlgorithm.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="Kotlin File" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VMap0fPhBJuUcqKxxf7wduR9VT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="CleanCode" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ShapeTest">
+    <configuration name="CircleComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircleComparator.CircleComparatorTest" />
+      <module name="Javaweb-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CircleComparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntefaceResizeable.CircleTest" />
+      <module name="Javaweb-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntefaceResizeable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntefaceResizeable.RectangleTest" />
+      <module name="Javaweb-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntefaceResizeable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntefaceResizeable.ShapeTest" />
+      <module name="Javaweb-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntefaceResizeable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntefaceResizeable.SquareTest" />
+      <module name="Javaweb-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntefaceResizeable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CircleComparatorTest" />
+      <item itemvalue="Application.CircleTest" />
+      <item itemvalue="Application.RectangleTest" />
+      <item itemvalue="Application.ShapeTest" />
+      <item itemvalue="Application.SquareTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShapeTest" />
+        <item itemvalue="Application.RectangleTest" />
+        <item itemvalue="Application.SquareTest" />
+        <item itemvalue="Application.CircleTest" />
+        <item itemvalue="Application.CircleComparatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bce5f504-ae56-4fbd-a77b-51e9ab5b032a" name="Default Changelist" comment="" />
+      <created>1577065596439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577065596439</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="264" width="563" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1578452695831">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="264" width="563" height="577" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578452695831" />
+    <state x="738" y="438" width="511" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578370321246">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="738" y="438" width="511" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1053@67.27.1853.1053" timestamp="1578370321246" />
+    <state x="726" y="301" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577261022273">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577261022273" />
+    <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl" timestamp="1578535452313">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1578535452313" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1578474326312">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578474326312" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1578474326310">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578474326310" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1578474326309">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578474326309" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1578474326311">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578474326311" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1577272016744">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577272016744" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1577272016743">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577272016743" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1577272016742">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577272016742" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1577272016744">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577272016744" />
+    <state x="641" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578532700993">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="641" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578532700993" />
+    <state x="645" y="448" width="686" height="209" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578495436491">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="645" y="448" width="686" height="209" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1578495436491" />
+    <state x="765" y="211" width="440" height="683" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577093632317">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="765" y="211" width="440" height="683" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1577093632317" />
+    <state x="764" y="255" width="449" height="594" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578495397582">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="764" y="255" width="449" height="594" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578495397582" />
+    <state x="251" y="144" width="1474" height="817" key="new project wizard" timestamp="1578495499406">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="251" y="144" width="1474" height="817" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1578495499406" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1577096891164">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1577096891164" />
+  </component>
+</project>
