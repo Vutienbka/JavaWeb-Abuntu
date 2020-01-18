@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce5f504-ae56-4fbd-a77b-51e9ab5b032a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/CleanCode/TennisGameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaweb/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaweb/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javaweb-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Javaweb-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Javaweb-master/CodeGym_Lesson/CountDayInMonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Javaweb-master/CodeGym_Lesson/DeclareAndUseVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Javaweb-master/CodeGym_Lesson/LinearEquationResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Javaweb-master/CodeGym_Lesson/RectangleProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Javaweb-master/CodeGym_Lesson/SystemTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Javaweb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Javaweb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Javaweb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Javaweb/quickSortAlgorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,10 +171,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="726" y="301" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577261022273" />
-    <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl" timestamp="1578535452313">
+    <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl" timestamp="1578929476731">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1578535452313" />
+    <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1578929476731" />
     <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1578474326312">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -219,10 +207,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577272016744" />
-    <state x="641" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578532700993">
+    <state x="641" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578924904516">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="641" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578532700993" />
+    <state x="641" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578924904516" />
     <state x="645" y="448" width="686" height="209" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578495436491">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -235,10 +223,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="764" y="255" width="449" height="594" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578495397582" />
-    <state x="251" y="144" width="1474" height="817" key="new project wizard" timestamp="1578495499406">
+    <state x="251" y="144" width="1474" height="817" key="new project wizard" timestamp="1578929454547">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="251" y="144" width="1474" height="817" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1578495499406" />
+    <state x="251" y="144" width="1474" height="817" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1578929454547" />
     <state x="657" y="253" key="run.anything.popup" timestamp="1577096891164">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
